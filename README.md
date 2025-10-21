@@ -99,7 +99,3 @@ To create a powerful educational platform that enables:
 - Node.js and MongoDB setup  
 - Firebase or AWS credentials configured  
 
-### 🧱 Clone the Repository
-```bash
-git clone https://github.com/YourUsername/eduverse.git
-cd eduverse
